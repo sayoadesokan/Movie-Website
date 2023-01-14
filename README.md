@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a react frontend app, using the react library an external API, I utilized the external API and was able to code and efficent app whilst calling the required films using the search functionality
 
 ## Available Scripts
 
