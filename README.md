@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# MOVIE APP USING THE REACT LIBRARY
 
 This is a react frontend app, using the react library an external API, I utilized the external API and was able to code and efficent app whilst calling the required films using the search functionality
 
